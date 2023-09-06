@@ -1,7 +1,7 @@
 /* Layout */
 
 body {
-    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+    font:normal 12px/1.6em Helvetica, Arial, sans-serif;
 	color:#2a3845;
 	margin:0;
 	padding:0;
@@ -56,7 +56,8 @@ p {
 }
 
 #footer {
-	background:#32cd32;
+	background:#7D1459;
+	color:#f6dde3;
 	border-top:1px solid #f0e9eb;
 	padding:10px 15px;
 	clear:both;
@@ -107,13 +108,13 @@ ul {
 }
 
 .box {
-	background:#f7f7f7;
+	background:#ffffff;
 	border:1px solid #f0e9eb;
 	padding:15px;
 }
 
 #nav {
-	background:#32cd32;
+	background:#7D1459;
 	padding:10px 20px;
 	text-align:right;
 	color:#f6dde3;
@@ -134,7 +135,13 @@ ul {
 }
 
 #logo {
+	margin-bottom:10px;
+	font:normal 36px Georgia, serif;
+	color:#fa7393;
+}
+
+#subtitle {
 	margin-bottom:20px;
 	font:normal 18px Georgia, serif;
-	color:#fa7393;
+	color:#242526;
 }
